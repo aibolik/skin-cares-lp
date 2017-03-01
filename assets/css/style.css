@@ -839,6 +839,7 @@ footer.main-footer nav.footer-nav ul li a {
     text-align: center;
     margin: auto;
     vertical-align: middle;
+    width: 100%;
 }
 
 @media (max-width: 991px) {
